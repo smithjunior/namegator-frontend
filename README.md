@@ -1,5 +1,7 @@
 # Namegator FrontEnd
 
+[**DEMO**](https://namegator-frontend-8ke94rii5.now.sh/)
+
 ## Project setup
 
 ```
