@@ -31,7 +31,9 @@
       "plugin:vue/essential",
       "eslint:recommended"
     ],
-    "rules": {},
+    "rules": {
+      "quotes": ["error", "double"]
+    },
     "parserOptions": {
       "parser": "babel-eslint"
     }
