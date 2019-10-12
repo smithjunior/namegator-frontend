@@ -137,10 +137,10 @@ export default {
       this.sufix = "";
     },
     deletePrefix(prefix) {
-      this.prefixes.splice(this.prefix.indexOf(prefix), 1);
+      this.prefixes.splice(this.prefixes.indexOf(prefix), 1);
     },
     deleteSufix(sufix) {
-      this.sufixes.splice(this.prefix.indexOf(sufix), 1);
+      this.sufixes.splice(this.sufixes.indexOf(sufix), 1);
     }
   },
   computed: {
