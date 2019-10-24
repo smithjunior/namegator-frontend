@@ -1,6 +1,6 @@
 # Namegator FrontEnd
 
-[**DEMO**](https://namegator-frontend-8ke94rii5.now.sh/)
+[**DEMO**](https://namegator-frontend.smithjunior.now.sh/)
 
 ## Project setup
 
