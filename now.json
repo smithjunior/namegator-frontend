@@ -1,0 +1,7 @@
+{
+  "build": {
+    "env": {
+      "VUE_APP_APOLLO_ENDPOINT_URL": "@vue_app_apollo_endpoint_url"
+    }
+  }
+}
