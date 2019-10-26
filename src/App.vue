@@ -14,6 +14,7 @@
 <script>
 import "bootstrap/dist/css/bootstrap.css";
 import "font-awesome/css/font-awesome.css";
+
 import DomainList from "./components/DomainList";
 
 export default {
